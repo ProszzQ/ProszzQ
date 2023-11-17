@@ -1,5 +1,5 @@
  ⌜ℹ⌟ Hey, Im Prosz and...
 
- ⌜🎈⌟ Im currently interested in programming and gaming
+ ⌜🎈⌟ Im interested in programming
 
- ⌜🏫⌟ Im learning programming in Unity
+ ⌜🏫⌟ Also, im learning python right now
