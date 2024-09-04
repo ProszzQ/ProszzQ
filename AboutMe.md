@@ -2,4 +2,4 @@
 
  ⌜🎈⌟ Im interested in programming
 
- ⌜🏫⌟ Also, im learning python right now
+ ⌜🏫⌟ Also, I code in Python
